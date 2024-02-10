@@ -201,7 +201,7 @@ int main()
     struct document Doc = get_document(text);
 
    /*--------------------------Application----------------------*/
-    /*
+    
     int q;
     scanf("%d", &q);
 
@@ -234,5 +234,5 @@ int main()
         }
         printf("\n");
     }
-    */   
+       
 }
